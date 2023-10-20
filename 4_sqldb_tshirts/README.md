@@ -61,7 +61,7 @@ streamlit run main.py
 2.The web app will open in your browser where you can ask questions
 
 ## Sample Questions
-  - how many total t shirts are left in total in stock?
+  - How many total t shirts are left in total in stock?
   - How many t-shirts do we have left for Nike in XS size and white color?
   - How much is the total price of the inventory for all S-size t-shirts?
   - How much sales amount will be generated if we sell all small size adidas shirts today after discounts?
