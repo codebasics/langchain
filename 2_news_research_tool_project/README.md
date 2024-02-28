@@ -33,7 +33,7 @@ RockyBot is a user-friendly news research tool designed for effortless informati
 4.Set up your OpenAI API key by creating a .env file in the project root and adding your API
 
 ```bash
-  OPENAI_API_KEY=your_api_key_here
+  set OPENAI_API_KEY=your_api_key_here
 ```
 ## Usage/Examples
 
